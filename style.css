@@ -1,0 +1,104 @@
+header 
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+body
+{background-color: rgb(255, 255, 255);
+
+}
+footer
+{
+
+}
+img
+{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block; /* Change display to inline-block */
+    vertical-align: middle; /* Add vertical-align: middle */
+    margin-left: 5px; /* Add some space between the image and the left edge */
+    margin-right: 10px;
+}
+
+.Navigation 
+{
+      color: rgb(255, 255, 255);
+      text-align: right;
+      text-decoration: 0;
+}
+div nav ul a
+{
+    margin-left: 10px;
+}
+#box1
+{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 25px;
+    background-color: #007db9;
+    text-align: right;
+}
+#box1 nav ul a
+{
+    padding-left: 10px;
+}
+
+.classtwo nav ul a
+{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 25px;
+    padding-left: 25px;
+    color: black;
+    text-decoration: 0;
+    display: inline-block; 
+    vertical-align: middle; 
+    text-align: left;
+
+}
+#classtwo2
+{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding-left: 980px;
+    color: black;
+    text-decoration: 0;
+    display: inline-block; 
+    vertical-align: middle; 
+    text-align: right;  
+}
+#box2
+{
+    padding-top: 0px;
+    padding-bottom: 177;
+    background-color: #8bb6cc;
+
+}
+#box2 nav ul p
+{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding-left: 1px;
+    color: black;
+    text-decoration: 0;
+    display: inline-block; 
+    vertical-align: middle; 
+ text-align: left;
+    font-size: 40;
+}
+#box2 nav ul img
+{
+
+    width: 800px;
+    height: 320px;
+    float: right;
+    margin-left: 5px; 
+    margin-right: 0px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
